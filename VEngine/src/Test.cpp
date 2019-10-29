@@ -5,6 +5,6 @@ namespace VEngine
 {
 	void vPrint()
 	{
-		std::cout << "VEngine test" << std::endl;
+		std::cout << "Hello from VEngine !!!" << std::endl;
 	}
 }
